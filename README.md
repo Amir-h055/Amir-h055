@@ -1,6 +1,8 @@
 ### Hi there 👋
 #### 𓄂𓆃
 
+[![Spotify](https://spotify-readme-eosin-psi.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 <!--
 **Amir-h055/Amir-h055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
